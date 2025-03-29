@@ -9,7 +9,7 @@
 
 Hi, I'm Aditya Vartak, a Computer Science Enthusiast ,an Expert level coder @coding ninjas and a passionate self-taught full stack web developer with experience in MERN stack and LAMP stack. Currently working as a Data Engineer 1 @KotakMahindraBank. I take great care in the experience, architecture, and code quality of the things I build.
 
-I'm a data engineer with proven ability to deliver short or long-term projects in data engineering, data warehousing and business intelligence realm.
+Current working as a data engineer with proven ability to deliver short or long-term projects in data engineering, data warehousing and business intelligence realm.
 
 Expertise:
 - Data technology selection/recommendation
